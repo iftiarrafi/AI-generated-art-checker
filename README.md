@@ -8,11 +8,10 @@
 
 <!-- Visuals -->
 <div align="center">
-  <img src="./assests/intro.gif" alt="Musico Demo" width="400"/>
+  <img src="./assests/intro.gif" alt="intro" width="600"/>
 </div>
 
-> Tip  
-> Replace `./docs/demo-placeholder.gif` with a real product GIF or screenshot once you have a polished demo asset.
+
 
 ## Overview
 
