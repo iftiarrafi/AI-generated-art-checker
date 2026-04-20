@@ -55,7 +55,7 @@ TrueArt AI Checker is a full-stack image classification app that helps users qui
 ### 1. Clone and install dependencies
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/iftiarrafi/AI-generated-art-checker.git
 cd "AI checker"
 
 cd backend
