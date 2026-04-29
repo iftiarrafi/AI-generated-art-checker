@@ -8,7 +8,7 @@
 
 <!-- Visuals -->
 <div align="center">
-  <img src="./assests/intro.gif" alt="intro" width="600"/>
+  <img src="./assests/intro.gif" alt="GIF loading......" width="600"/>
 </div>
 
 
