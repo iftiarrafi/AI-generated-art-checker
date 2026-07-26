@@ -16,6 +16,10 @@
 ## Overview
 
 TrueArt AI Checker is a full-stack image classification app that helps users quickly check whether an image appears to be AI-generated. The project pairs a minimal Next.js frontend with a Flask inference API that loads a fine-tuned Vision Transformer model and returns a simple prediction result.
+<!-- Visuals -->
+<div align="center">
+  <img src="./assests/intro.gif" alt="GIF loading......" width="600"/>
+</div>
 
 ## Tech Stack
 
