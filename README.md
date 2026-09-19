@@ -2,24 +2,22 @@
 
 > Detect whether an uploaded image is likely AI-generated or real through a clean web UI backed by a Vision Transformer inference service.
 
-![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
-![Version](https://img.shields.io/badge/version-0.1.0-black?style=for-the-badge)
-
 <!-- Visuals -->
+
+🎥 Project Demo
+
 <div align="center">
-  <img src="./assests/intro.gif" alt="GIF loading......" width="600"/>
+
+<a href="https://youtu.be/KMRvH6Q7wSA"> <img src="https://img.youtube.com/vi/KMRvH6Q7wSA/maxresdefault.jpg" alt="AI Generated Art Checker Demo" width="800" /> </a>
+
+<p> <strong>▶️ Click the image above to watch the full demo</strong> </p>
+
 </div>
-
-
 
 ## Overview
 
 TrueArt AI Checker is a full-stack image classification app that helps users quickly check whether an image appears to be AI-generated. The project pairs a minimal Next.js frontend with a Flask inference API that loads a fine-tuned Vision Transformer model and returns a simple prediction result.
-<!-- Visuals -->
-<div align="center">
-  <img src="./assests/intro.gif" alt="GIF loading......" width="600"/>
-</div>
+
 
 ## Tech Stack
 
